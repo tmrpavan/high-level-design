@@ -9,3 +9,7 @@ scalable system. Distributed systems are highly scalable and complex to design. 
 building this kind of system.
 
 System design aims to build systems that are **Reliable**, **Effective** and **Maintainable** Systems.
+    
+    Reliable Systems can handle faults, errors and failures.
+    Effective Systems meet the needs of the user and requirements.
+    The Maintainability System can be easily scalable up and down and new features can be added to the system.
