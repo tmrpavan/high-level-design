@@ -18,12 +18,14 @@ Communication with the interviewer is key in SDIs.
 2. Learn why a particular component is used, for example why MongoDB instead of MtSQL. 
 3. Build the project and start from the scratch
 
-T### he right directions.
+### The right directions.
     
     We need to focus more on trade offs instead of internal mechanisms.
-It doesn't help much if the discussion is around Mssql or Mysql Because are similar. Instead we can have discussed where the Nosql or Sql can make a huge difference.
+It doesn't help much if the discussion is around MsSQL or Mysql Because both are similar. Instead we can have discussed 
+where the NoSQL or SQL can make a huge difference.
 
 ### Mock Interviews
-Mock interviews are good to prepare SDIs. WE can take or give SDIs. It give the real time SDIs experience. You can evaluate what went wrong and what worked for you.
+Mock interviews are good to prepare SDIs. You can take or give SDIs. It give the real time SDIs experience. You can 
+evaluate what went wrong and what worked for you.
 
 
