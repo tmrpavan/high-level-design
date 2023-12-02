@@ -23,7 +23,7 @@ Communication with the interviewer is key in SDIs.
 ### The right directions.
     
     We need to focus more on trade offs instead of internal mechanisms.
-It doesn't help much if the discussion is around MsSQL or Mysql Because both are similar. Instead we can have discussed 
+It doesn't help much if the discussion is around MSSQL or MySQL Because both are similar. Instead we can have discussed 
 where the NoSQL or SQL can make a huge difference.
 
 ### Mock Interviews
