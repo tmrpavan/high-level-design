@@ -43,7 +43,7 @@ This server return the List of IP address if the given domain name query.
 
 ![Hierarchy.png](res/Hierarchy.png)
 
-There are two ways to perform a DNS query:
+### There are two ways to perform a DNS query:
 
 **Iterative:** 
 1. The local server requests the root, TLD, and the authoritative servers for the IP address.
