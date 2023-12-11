@@ -20,3 +20,16 @@ end user may not face any unavailability of the system.
 #### Performance 
 Load Balancers can identify the overloaded servers and can forward the traffic to the systems which are not overloaded 
 to improve the performance of the request.  
+
+## Global and Local Load Balancing
+#### Global Load Balancing 
+Global load balancers distribute the traffic over multiple geographical locations. When a request is accepted by Global 
+Load balancer then it will search for the nearest geographical location to route the request.
+#### Local Load Balancing 
+We need local load balancing in every data center to utilize the resources and distribute the traffic to the server effectively.
+
+#### DNS Loading balancing
+DNS servers also act as global load balancers. When a user requests the IP address of a Domain. DNS system returns a 
+list of IP addresses of the servers which are near to the user location. Request packet of DNS  is very small and we 
+can not send all required info to DNS to manage traffic effectively.
+
