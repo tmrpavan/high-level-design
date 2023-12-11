@@ -22,6 +22,9 @@ Load Balancers can identify the overloaded servers and can forward the traffic t
 to improve the performance of the request.  
 
 ## Global and Local Load Balancing
+
+![DNS.png](res/DNS.png)
+
 #### Global Load Balancing 
 Global load balancers distribute the traffic over multiple geographical locations. When a request is accepted by Global 
 Load balancer then it will search for the nearest geographical location to route the request.
